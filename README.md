@@ -30,4 +30,6 @@
 - Account No.: Admin
 - Password : 123
 
-### Demo Video
+### Demo
+https://github.com/aushamim/Bank_Management_System/assets/79254587/bfadf621-2cd2-4a84-9815-7f66d5132da8
+
